@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Dirk\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Dirk\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Zombie Defense Prototype 1.-1101641814.00" t="ExcludeRecursive" />
+    <e p="Q:\GameDev\Zombie Defense Prototype 1" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Profiles" t="Include">
+          <e p="AttackerProfile.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AutoTurret.cs" t="Include" />
+          <e p="Despawner.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="Game.cs" t="Include" />
+          <e p="ObjectPools.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="Projectile.cs" t="Include" />
+          <e p="RotatePoint.cs" t="Include" />
+          <e p="Spawner.cs" t="Include" />
+          <e p="Turret.cs" t="Include" />
+          <e p="Walker.cs" t="Include" />
+          <e p="Woundable.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Zombie Defense Prototype 1.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
