@@ -12,8 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66fb9ddad08fea74d96469d868919547, type: 3}
   m_Name: Basic Attacker
   m_EditorClassIdentifier: 
-  tag: attacker
-  moveSpeed: 5
+  moveSpeed: 2.5
   moveSpeedVariation: 0.15
   attackSpeed: 1
   attackDamage: 1

@@ -57,3 +57,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f69136bb2bf001a438d5b5efc7e5a2cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  directionChangeFrequency: 0.01

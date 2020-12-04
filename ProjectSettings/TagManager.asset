@@ -19,9 +19,9 @@ TagManager:
   - GameSystems
   - AimPlane
   - Projectile
-  - 
-  - 
-  - 
+  - Player
+  - ActiveEquipment
+  - Friendlies
   - 
   - 
   - 

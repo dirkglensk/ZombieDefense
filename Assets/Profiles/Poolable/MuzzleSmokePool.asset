@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3279833ed9401c6469af242f7eb1767d, type: 3}
+  m_Name: MuzzleSmokePool
+  m_EditorClassIdentifier: 
+  tag: muzzle_smoke_heavy
+  prefab: {fileID: 6015465249913394513, guid: 1d9ebd6b11c8fd14692de89f64a38610, type: 3}
+  size: 15

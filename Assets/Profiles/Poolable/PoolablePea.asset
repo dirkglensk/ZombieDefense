@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3279833ed9401c6469af242f7eb1767d, type: 3}
+  m_Name: PoolablePea
+  m_EditorClassIdentifier: 
+  tag: pea
+  prefab: {fileID: 876924843604219734, guid: cd99e4840cacfea408e2c11ab0cba29f, type: 3}
+  size: 250

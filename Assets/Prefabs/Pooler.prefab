@@ -43,12 +43,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61690dd6c5d2b2042b02dd99fa6fd9af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Pools:
-  - tag: attacker
-    prefab: {fileID: 8845832161641638037, guid: ceb02b25853672d4abe4363e3729ff16,
-      type: 3}
-    size: 1000
-  - tag: bullet
-    prefab: {fileID: 8473018590001877223, guid: 2326769fc0611e44d94da426101f2661,
-      type: 3}
-    size: 250
+  pools:
+  - {fileID: 11400000, guid: ed1f0d33551898e43b54b2f5ae3270fb, type: 2}
+  - {fileID: 11400000, guid: 31ef78800f5877a4f92f46f4515c8186, type: 2}
+  - {fileID: 11400000, guid: a268d761a8642704a8360073e3d16594, type: 2}
+  - {fileID: 11400000, guid: 9dfc230f079c109468a0d15b184d491f, type: 2}
+  - {fileID: 11400000, guid: 589eac6e03de19f49b8f90395fbbee9a, type: 2}
+  - {fileID: 11400000, guid: c53de44e6ee0ace49ad6664747d1fc4f, type: 2}
+  - {fileID: 11400000, guid: 518f864ae1053da45bd9edd308afc28d, type: 2}
